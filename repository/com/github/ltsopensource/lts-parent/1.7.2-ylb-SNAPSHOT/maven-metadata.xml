@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.ltsopensource</groupId>
+  <artifactId>lts-parent</artifactId>
+  <version>1.7.2-ylb-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20230308.021415</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20230308021415</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.7.2-ylb-20230308.021415-1</value>
+        <updated>20230308021415</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
